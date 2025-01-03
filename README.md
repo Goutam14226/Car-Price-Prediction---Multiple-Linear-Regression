@@ -1,8 +1,8 @@
-Car Price Predictor Project
+#Car Price Predictor Project
 
 This project is a machine learning application designed to predict the selling price of used cars based on various features such as brand, year, mileage, and fuel type. The dataset is sourced from Quikr and contains detailed information about cars listed for sale.
 
-Features
+#Features
 
 Data Preprocessing: Handles missing values, outliers, and inconsistent data formats.
 
@@ -12,7 +12,7 @@ Machine Learning Model: Implements regression algorithms to predict car prices.
 
 Interactive Visualizations: Uses Matplotlib to create insightful plots.
 
-Dataset
+#Dataset
 
 The dataset quikr_car.csv contains the following columns:
 
@@ -28,7 +28,7 @@ kms_driven: The distance the car has been driven (e.g., "45,000 kms").
 
 fuel_type: The type of fuel used (e.g., Petrol, Diesel).
 
-Steps in the Project
+#Steps in the Project
 
 Data Loading:
 
@@ -58,7 +58,7 @@ Model Deployment:
 
 Optionally, deploy the model using Flask or Streamlit for real-time predictions.
 
-Requirements
+#Requirements
 
 Python Libraries:
 
