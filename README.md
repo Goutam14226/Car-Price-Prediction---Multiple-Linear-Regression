@@ -71,4 +71,3 @@ matplotlib
 scikit-learn
 
 Link of Data From Scrap
-
