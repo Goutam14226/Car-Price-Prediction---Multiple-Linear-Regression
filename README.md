@@ -69,7 +69,3 @@ numpy
 matplotlib
 
 scikit-learn
-
-Link of Data From Scrap
-Car-Price-Prediction---Multiple-Linear-Regression
-/quikr_car.csv
